@@ -1,16 +1,13 @@
-### Hi there 👋
+### Добро пожаловать на канал [DevMagazine](https://www.youtube.com/channel/UCQnQ5wh8Eh1q-E2s-fN1Xcg)!
 
-<!--
-**devmagazinepodcast/devmagazinepodcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Репозитории к видео доступны в:\
+💻 https://github.com/vadimkorr \
+💻 https://github.com/tutorials-coding
 
-Here are some ideas to get you started:
+Подписывайтесь на нас:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦉 [YouTube](https://www.youtube.com/channel/UCQnQ5wh8Eh1q-E2s-fN1Xcg) \
+🦉 [Twitter @_devmagazine](https://twitter.com/_devmagazine) \
+🦉 [GitHub @vadimkorr](https://github.com/vadimkorr) \
+🦉 https://devmagazine.medium.com
+
